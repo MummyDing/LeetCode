@@ -9,4 +9,4 @@ This repo is used to store my LeetCode problem solutions.
 
 
 [8]: https://leetcode.com/problems/palindrome-number/
-[800] https://github.com/MummyDing/LeetCode/blob/master/C%2B%2B/Palindrome_Number/main.cpp
+[800]: https://github.com/MummyDing/LeetCode/blob/master/C%2B%2B/Palindrome_Number/main.cpp
