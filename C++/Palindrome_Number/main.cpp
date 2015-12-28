@@ -3,6 +3,7 @@ Problem: Palindrome Number
 Description: https://leetcode.com/problems/palindrome-number/
 Author: MummyDing
 Date : 2015-12-27
+Run Time: 156 ms
 */
 
 #include <iostream>
@@ -37,8 +38,6 @@ public:
 };
 int main()
 {
-    cout<<"hello"<<endl;
-//    Solution s ;
-    //cout<<s.isPalindrome(100001)<<endl;
+
     return 0;
 }
