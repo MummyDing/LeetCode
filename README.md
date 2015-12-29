@@ -3,7 +3,7 @@ This repo is used to store my LeetCode problem solutions.
 
 | # | Title | Solution | Difficulty | Type | Run Time| Blog |
 |---| ----- | -------- | ---------- |--------|------|------|
-| 8 |[String to Integer (atoi)][8]| [C++][801] | Easy | Basic | 12ms |[2015-12-29][820]|
+| 8 |[String to Integer (atoi)][8]| [C++][800] | Easy | Basic | 12ms |[2015-12-29][820]|
 | 9 |[Palindrome Number][9]| [C++][900] | Easy | Basic | 156ms |[2015-12-27][920]|
 | 9 |[Palindrome Number][9]| [C++][901] | Easy | Basic | 84ms |[2015-12-28][920]|
 
