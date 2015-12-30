@@ -3,6 +3,7 @@ This repo is used to store my LeetCode problem solutions.
 
 | # | Title | Solution | Difficulty | Type | Run Time| Blog |
 |---| ----- | -------- | ---------- |--------|------|------|
+| 6 |[ZigZag Conversion][6]| [C++][600] | Easy | Basic | 20ms |[2015-12-30][620]|
 | 7 |[Reverse Integer][7]| [C++][700] | Easy | Basic | 12ms |*2015-12-29*|
 | 8 |[String to Integer (atoi)][8]| [C++][800] | Easy | Basic | 12ms |[2015-12-29][820]|
 | 9 |[Palindrome Number][9]| [C++][900] | Easy | Basic | 156ms |[2015-12-27][920]|
@@ -22,3 +23,8 @@ This repo is used to store my LeetCode problem solutions.
 
 [7]: https://leetcode.com/problems/reverse-integer/
 [700]: https://github.com/MummyDing/LeetCode/blob/master/C%2B%2B/Reverse%20Integer/main.cpp
+
+[6]: https://leetcode.com/problems/zigzag-conversion/
+[600]: https://github.com/MummyDing/LeetCode/blob/master/C%2B%2B/ZigZag%20Conversion/main.cpp
+[620]: http://blog.csdn.net/mummyding/article/details/50437625
+

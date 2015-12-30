@@ -39,4 +39,3 @@ int main()
     //cout<<s.convert("1234567890abcd",6)<<endl;
     return 0;
 }
-
