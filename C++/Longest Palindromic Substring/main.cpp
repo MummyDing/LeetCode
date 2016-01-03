@@ -1,3 +1,10 @@
+/*
+Problem: Longest Palindromic Substring
+Description: https://leetcode.com/problems/longest-palindromic-substring/
+Author: MummyDing
+Date : 2015-01-03
+Run Time: TLE
+*/
 #include <iostream>
 #define LEN 1005
 using namespace std;
