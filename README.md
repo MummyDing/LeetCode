@@ -3,6 +3,7 @@ This repo is used to store my LeetCode problem solutions.
 
 | # | Title | Solution | Difficulty | Type | Run Time| Blog |
 |---| ----- | -------- | ---------- |--------|------|------|
+| 4 |[Palindrome Number][4]| [Java][410] | Hard | Sort | 6ms |2016-01-10|
 | 5 |[Longest Palindromic Substring][5]| [C++][500] | 	Medium | String | TLE |2016-01-03|
 | 6 |[ZigZag Conversion][6]| [C++][600] | Easy | Basic | 20ms |[2015-12-30][620]|
 | 7 |[Reverse Integer][7]| [C++][700] | Easy | Basic | 12ms |*2015-12-29*|
@@ -31,4 +32,7 @@ This repo is used to store my LeetCode problem solutions.
 
 [5]:https://leetcode.com/problems/longest-palindromic-substring/
 [500]:https://github.com/MummyDing/LeetCode/blob/master/C%2B%2B/Longest%20Palindromic%20Substring/main.cpp
+
+[4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
+[410]: https://github.com/MummyDing/LeetCode/blob/master/Java/Median_of_Two_Sorted_Arrays/src/Solution.java
 
